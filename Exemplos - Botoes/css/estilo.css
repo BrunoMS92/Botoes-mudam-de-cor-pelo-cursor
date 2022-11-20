@@ -1,0 +1,134 @@
+*{
+    margin:0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.h1-titulo{
+    position: relative;
+    text-align: center;
+    width: 100%;   
+    font-size: 50px;
+}
+
+.conteiner1{
+    position: absolute;
+    padding: 5px;
+    margin: 10px;
+}
+
+.btn{
+    padding: 14px 28px;
+    font-size: 24px;
+    cursor: pointer; 
+    border: none;
+    outline: none;
+    color: white;
+}
+
+.btn-contorno{
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+    font-size: 22px;
+    padding: 12px 26px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.botao1{
+background-color: transparent;
+color: blue;
+}
+
+.botao2{
+   background-color: transparent;
+   color: aqua;
+
+}
+
+.botao3{
+    background-color: transparent;
+    color: red;
+    
+}
+
+.botao4{
+    background-color: transparent;
+    color:silver;
+}
+
+
+.botao5{
+    background-color: transparent;
+    color: yellow;
+}
+
+.botao6{
+    background-color: transparent;
+    color: green;
+}
+
+.botao1-contorno{
+    border-color: blue; 
+    color: blue;
+}
+
+.botao1-contorno:hover{
+    background-color: blue;
+    color:white;
+}
+
+.botao2-contorno{
+    border-color: aqua; 
+    color: aqua;
+}
+
+.botao2-contorno:hover{
+    background-color: aqua;
+    color:white;
+}
+
+.botao3-contorno{
+    border-color: red; 
+    color: red;
+}
+
+.botao3-contorno:hover{
+    background-color: red;
+    color:white;
+}
+
+.botao4-contorno{
+    border-color: silver;
+    color: silver;
+}
+
+.botao4-contorno:hover{
+    background-color: silver;
+    color:white;
+}
+
+.botao5-contorno{
+    border-color: yellow;
+    color: yellow;
+}
+
+.botao5-contorno:hover{
+    background-color: yellow;
+    color:white;
+}
+
+.botao6-contorno{
+    border-color: green;
+    color: green; 
+}
+
+.botao6-contorno:hover{
+    background-color: green;
+    color:white;
+}
